@@ -1,5 +1,0 @@
-E:\Dropbox\DePaul\CSC480\Simacogo\Simacogo\bin\Debug\Simacogo.exe.config
-E:\Dropbox\DePaul\CSC480\Simacogo\Simacogo\bin\Debug\Simacogo.exe
-E:\Dropbox\DePaul\CSC480\Simacogo\Simacogo\bin\Debug\Simacogo.pdb
-E:\Dropbox\DePaul\CSC480\Simacogo\Simacogo\obj\Debug\Simacogo.exe
-E:\Dropbox\DePaul\CSC480\Simacogo\Simacogo\obj\Debug\Simacogo.pdb
